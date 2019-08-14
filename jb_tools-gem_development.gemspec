@@ -28,4 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "minitest"
   spec.add_dependency "minitest-tagz"
   spec.add_dependency "pry-byebug"
+  spec.add_dependency "test_server_rb"
 end
